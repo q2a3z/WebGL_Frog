@@ -4,12 +4,17 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>FROG</title>
+    <style>
+      body { margin: auto; }
+      #unityContainer { width: 100vw; height: 90vh; }
+      canvas { width: 80%; height: 70%; }
+    </style>
     <script src="Build/UnityLoader.js"></script>
     <script>
       UnityLoader.instantiate("unityContainer", "Build/WebGL.json");
     </script>
   </head>
   <body>
-    <div id="unityContainer" style="width: 840px; height: 480px; margin: auto"></div>
+    <div id="unityContainer"></div>
   </body>
 </html>
