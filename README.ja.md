@@ -1,5 +1,5 @@
 # Unity ゲーム Frog WebGLでビルドされました。
-<!--*ほかの言語のREADMEファイル: [English](README.md), [日本語](README.ja.md), [中文](README.zh-tw.md)-->
+*ほかの言語のREADMEファイル: [English](README.md), [日本語](README.ja.md), [中文](README.zh-tw.md)
 ## ゲーム概要  
 このゲームは不幸なキツネの物語です。  
 理由を問わずに彼は謎の組織で捕られました、目的はテストなんです。  
